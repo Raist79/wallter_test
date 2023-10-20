@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/raist/dev_ws/build/wallter_test",
+        "/home/raist/dev_ws/install/wallter_test/lib/python3.10/site-packages",
+        "/home/raist/dev_ws/install/wallter_interfaces/lib/python3.10/site-packages",
+        "/opt/ros/iron/lib/python3.10/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/raist/dev_ws/build/wallter_test",
+        "/home/raist/dev_ws/install/wallter_test/lib/python3.10/site-packages",
+        "/home/raist/dev_ws/install/wallter_interfaces/lib/python3.10/site-packages",
+        "/opt/ros/iron/lib/python3.10/site-packages"
+    ]
+}
